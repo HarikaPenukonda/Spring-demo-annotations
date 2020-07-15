@@ -9,9 +9,13 @@ public class PracticeAnnotationApp {
 		// read the spring config file
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
 		// get the bean from spring container
-		Coach theCoach  = context.getBean("pingpongCoach", Coach.class);
+		SwimCoach theCoach  = context.getBean("swimCoach", SwimCoach.class);
 		// call a method of a bean
 		System.out.println(theCoach.getDailyWorkout());
+		System.out.println(theCoach.getDailyFortune());
+		System.out.println(theCoach.getEmail());
+		System.out.println(theCoach.getTeam());
+		
 		// close context
 		context.close();
 	}
