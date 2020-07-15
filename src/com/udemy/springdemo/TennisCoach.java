@@ -2,7 +2,7 @@ package com.udemy.springdemo;
 
 import org.springframework.stereotype.Component;
 
-@Component("thatsillycoach") // @Component scans our classes, registers with beanID - thatsillycoach
+@Component // @Component scans our classes, uses the default bean id - tennisCoach
 public class TennisCoach implements Coach {
  
 	@Override
