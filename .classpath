@@ -6,320 +6,68 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-jcl-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-instrument-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-context-indexer-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-instrument-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-instrument-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-expression-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-core-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-context-indexer-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-context-indexer-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-beans-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-aop-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-oxm-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-context-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-tx-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-jdbc-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-context-support-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-web-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-messaging-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-orm-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-websocket-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-webmvc-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-aspects-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-webflux-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-test-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-jms-5.2.7.RELEASE.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-aop-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-aop-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-aspects-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-aspects-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-beans-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-beans-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-context-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-context-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-context-support-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-context-support-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-jcl-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-jcl-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-expression-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-expression-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-core-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-core-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-jdbc-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-jdbc-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-jms-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-jms-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-messaging-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-messaging-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-oxm-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-oxm-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-orm-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-orm-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-tx-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-tx-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-test-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-test-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-web-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-web-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-webflux-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-webflux-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-webmvc-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-webmvc-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-websocket-5.2.7.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/harikapenukonda/Downloads/spring-framework-5.2.7.RELEASE/libs/spring-websocket-5.2.7.RELEASE-javadoc.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="libs/spring-aop-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-aop-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-aop-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-aspects-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-aspects-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-aspects-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-beans-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-beans-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-beans-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-indexer-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-indexer-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-indexer-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-support-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-support-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-support-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-core-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-core-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-core-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-expression-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-expression-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-expression-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-instrument-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-instrument-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-instrument-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jcl-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jcl-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jcl-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jdbc-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jdbc-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jdbc-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jms-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jms-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jms-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-messaging-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-messaging-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-messaging-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-orm-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-orm-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-orm-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-oxm-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-oxm-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-oxm-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-test-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-test-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-test-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-tx-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-tx-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-tx-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-web-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-web-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-web-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-webflux-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-webflux-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-webflux-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-webmvc-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-webmvc-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-webmvc-5.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-websocket-5.2.7.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/spring-websocket-5.2.7.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="libs/spring-websocket-5.2.7.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
