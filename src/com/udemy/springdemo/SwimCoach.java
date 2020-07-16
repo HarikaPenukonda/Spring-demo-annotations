@@ -14,7 +14,7 @@ public class SwimCoach implements Coach{
 	
 	public SwimCoach()
 	{
-		System.out.println(" >> SwimCoach : inside no arg constructor");
+		//System.out.println(" >> SwimCoach : inside no arg constructor");
 	}
 	
 	@Value("${foo.email}")
