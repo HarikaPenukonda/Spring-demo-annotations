@@ -2,11 +2,13 @@ package com.udemy.springdemo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 /* Spring will scan for a component that implements FortuneService interface */
 
 @Component // @Component scans our classes, uses the default bean id - tennisCoach
+@Scope("prototype") // Bean scope, where new object is created for each request(prototype), bydefault it is singleton
 public class TennisCoach implements Coach {
 	
 	//@Autowired // field injection, inject a FortuneService implementation directly into the class
