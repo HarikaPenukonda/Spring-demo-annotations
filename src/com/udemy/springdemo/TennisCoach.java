@@ -1,5 +1,8 @@
 package com.udemy.springdemo;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Scope;
@@ -8,7 +11,7 @@ import org.springframework.stereotype.Component;
 /* Spring will scan for a component that implements FortuneService interface */
 
 @Component // @Component scans our classes, uses the default bean id - tennisCoach
-@Scope("prototype") // Bean scope, where new object is created for each request(prototype), bydefault it is singleton
+//@Scope("prototype") // Bean scope, where new object is created for each request(prototype), bydefault it is singleton
 public class TennisCoach implements Coach {
 	
 	//@Autowired // field injection, inject a FortuneService implementation directly into the class
@@ -27,6 +30,20 @@ public class TennisCoach implements Coach {
 		System.out.println(" >> TennisCoach: inside the setFortuneService method ");
 		this.fortuneService = fortuneService;
 	}*/
+	
+	@PostConstruct
+	public void doMyStartupStuff()
+	{
+		System.out.println(" >>TennisCoach: inside the doMyStartupStuff method ");
+	}
+	
+	// define destroy method
+	@PreDestroy
+	public void doMyCleanupStuff()
+	{
+		System.out.println(" >>TennisCoach: inside the doMyCleanupStuff method ");
+	}
+
 	
 	// Inject dependencies by calling any method on your class 
 //	@Autowired
@@ -52,5 +69,7 @@ public class TennisCoach implements Coach {
 	public String getDailyFortune() {
 		return fortuneService.getFortune();
 	}
-
+	
+	// define init method
+	
 }
